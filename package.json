@@ -11,8 +11,8 @@
 		"assert",
 		"testing",
 		"chai",
-		"selenium"
-		"saucelanbs",
+		"selenium",
+		"saucelabs",
 		"webdriver"
 	],
 	"license": "MIT",
