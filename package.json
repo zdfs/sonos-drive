@@ -1,0 +1,40 @@
+{
+	"author": {
+		"name": "Zachary Forrest",
+		"email": "zach.forrest@sonos.com"
+	},
+	"name": "sonos-drive",
+	"description": "A simple NPM project for the Sonos E2E configuration.",
+	"keywords": [
+		"test",
+		"assertion",
+		"assert",
+		"testing",
+		"chai",
+		"selenium"
+		"saucelanbs",
+		"webdriver"
+	],
+	"license": "MIT",
+	"contributors": [],
+	"version": "0.0.1",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/zdfs/sonos-drive"
+	},
+	"bugs": {
+		"url": "https://github.com/zdfs/sonos-drive/issues"
+	},
+	"main": "./index",
+	"engines": {
+		"node": ">= 0.10.0"
+	},
+	"dependencies": {
+		"wd": "~0.2.14",
+		"colors": "~0.6.2",
+		"chai": "~1.9.1",
+		"chai-as-promised": "~4.1.1",
+		"lodash": "~2.4.1"
+	},
+	"readmeFilename": "README.md"
+}
