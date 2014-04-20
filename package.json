@@ -38,5 +38,6 @@
 	},
 	"readmeFilename": "README.md",
 	"_id": "sonos-drive@0.0.1",
-	"_from": "sonos-drive@~0.0.1"
+	"_from": "sonos-drive@~0.0.1",
+	"private": true
 }
