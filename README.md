@@ -50,6 +50,7 @@ drive.getBaseUrl().env       // 'dev'
 **environments**
 
 The `environments()` method returns an object of browsers and platforms that we can run our tests against. During development, this will always be Firefox (we might be able to provide more in the future), but when running against SauceLabs, we currently support 6 environments.
+We also include properties that you can use in your tests to determine if the current environment is mobile and what viewport sizes it supports.
 
 1. Firefox on Linux
 2. Chrome on OS X 10.9
