@@ -21,7 +21,7 @@ ___
 
 **config(sauce_user, sauce_accesskey, testsuite)**
 
-The `config()` method requires three parameters and must be called before running any tests.
+The `config()` method requires three parameters and must be called before running any tests against SauceLabs. You don't need to configure this if you just want to run tests locally.
 
 1. @param **sauce_user** - Username for your SauceLabs account.
 2. @param **sauce_accesskey** - Access key for your SauceLabs account.
