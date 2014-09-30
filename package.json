@@ -30,11 +30,11 @@
 		"node": ">= 0.10.0"
 	},
 	"dependencies": {
-		"wd": "0.3.5",
-		"chai": "1.9.1",
+		"wd": "0.3.8",
+		"chai": "1.9.2",
 		"chai-as-promised": "4.1.1",
 		"lodash": "2.4.1",
-		"minimist": "0.0.8"
+		"minimist": "1.1.0"
 	},
 	"readmeFilename": "README.md",
 	"_id": "sonos-drive@0.0.1",
